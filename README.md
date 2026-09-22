@@ -41,7 +41,7 @@ Frames, auto layout, real components with variants, styles and variables. Wire s
 
 ### 🎨 SPLAT! — Paint
 
-93 brushes across 13 groups — pencils, inkers, calligraphy, oils, watercolour, airbrush, spraypaint, halftone grit. Pressure and tilt, stroke stabilization, perspective and isometric guides.
+93 brushes across 13 groups — pencils, inkers, calligraphy, oils, watercolor, airbrush, spraypaint, halftone grit. Pressure and tilt, stroke stabilization, perspective and isometric guides.
 
 **Bring your own:** Procreate `.brush` and `.brushset` files import straight in.
 
